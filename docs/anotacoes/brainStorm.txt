@@ -1,0 +1,74 @@
+Tema: BrainStorm tic-tac-toe
+Data: 07/05/2022
+Contribuidores: 
+    Gian Medeiros
+    Luciene Regina
+    Gilberto de Sousa
+    Paulo Medeiros Junior
+Descrição:
+    BrainStorm foi realizado com o intuito de ver possibilidades para o jogo (tic-tac-toe).
+    Neste brainstorm foi encontrado 25 tópicos, envolvendo funcionalidades, regras de negocio
+        e possibilidades de varios niveis de complexibilidade do jogo
+
+Tópicos soltos realizados no BrainStorm:
+
+1- Tabuleiro 3x3
+2- Dois Oponentes
+3- opção de dificuldade dos boots
+4- Score de partida
+5- Torneios
+6- Boot -> Aleatório
+7- Armazenar partidas
+8- Resetar -> Partidas
+9- Resetar -> Recordes
+10- Resetar -> Tudo
+11- Nome dos jogadores
+12- Modo de 1 e 2 jogadores
+13- Voltar jogada
+14- Jogar por teclas
+15- Jogar por mouse
+16- Jogar no terminal
+17- Página Web
+18- Aplicativo
+19- Multiplayer local
+20- Multiplayer remoto
+21- Boot Inteligente
+22- Tempo de partida
+23- Limite de Tempo
+24- X e O personalizaveis
+25- Pausar o tempo
+
+    Esse BrainStorm veio como uma ideia de pegar uma boa base de ideias sobre o jogo para poder
+definir o que seria necessario para um MVP e tambem ter um compilado de ideias para upgrades
+futuros e novas versões do jogo.
+
+como MVP os tópicos necessarios são os seguintes:
+
+1- Tabuleiro 3x3
+2- Dois Oponentes
+14- Jogar por teclas
+16- Jogar no terminal
+19- Multiplayer local
+
+    com isso esses são os tópicos fundamentais para o MVP, com isso os próximos casos vai ser
+ver as questões de regra de negocio e organização dos tópicos cronologicamente:
+
+issues:
+
+#1 - Tabuleiro do Jogo 3x3
+    #2 montar o visual do Tabuleiro
+        links: #1 e #
+    
+    #3 Responsividade de jogos do tabuleiro
+        links: #2 e # 
+
+# - jogar por teclas
+
+# - jogar no terminal
+
+# - multiplayer local
+
+    parte ainda não finalizada, ainda tenho duvidas quanto a essa forma de organização e planejamento do projeto
+e estou com dificuldade de conexão a internet e com isso vou processeguir com essa etapa posteriormente.
+
+
